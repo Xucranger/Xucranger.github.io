@@ -1,4 +1,3 @@
-
 ---
 layout: page
 permalink: /diary/index.html
