@@ -1,19 +1,20 @@
-title: Yong Liu
+title: Xucranger
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://liuyong0076.github.io
+url: https://xucranger.github.io
 
 # Owner/author information
 owner:
-  name: Yong Liu
-  avatar: liuyong.jpg
+  name: Xucranger
+  avatar: avt.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: lyong@mail.buct.edu.cn
+  email: 1275244661@qq.com
+  twitter: xu_crane
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: liuyong0076
-  ieee: https://ieeexplore.ieee.org/author/37086018365
+  github: xucranger
+  # ieee: https://ieeexplore.ieee.org/author/37086018365
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -33,6 +34,8 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Blogs
+    url: /blogs/
   - title: Publications
     url: /publications/
   - title: Awards
@@ -48,10 +51,8 @@ highlighter: rouge
 # markdown: redcarpet
 # pygments: true
 
-
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
+permalink: /:categories/:title
 
 kramdown:
   auto_ids: true
@@ -67,12 +68,23 @@ kramdown:
   #   coderay_bold_every: 10
   #   coderay_css: class
 
-
 # disqus settings:
 # disqus:
 #   shortname: lancecai
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
+exclude:
+  [
+    "lib",
+    "config.rb",
+    "Capfile",
+    "config",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "minimal-mistakes.sublime-project",
+    "minimal-mistakes.sublime-workspace",
+  ]
 # Latest update in 2023/12/10 by Hanlin Cai.
