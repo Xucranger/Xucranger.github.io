@@ -3,36 +3,32 @@ layout: page
 ---
 
 ## About Me
-Dr. Yong Liu(刘勇), Professor, Coach of Programming Contest
+XuHexiang(徐鹤翔), 
 
-**Email**: lyong [at] mail.buct.edu.cn
+I currently pursuing my graduate studies at Beijing University of Chemical Technology, specializing in the Laboratory of Computational Intelligence and Software Engineering and my supervisor is [Liu Yong](https://liuyong0076.github.io/)
 
-I received the B.Sc. M.Sc. and Ph.D. degrees from BUCT. My advisor is Professor Zheng Li. 
 
-My research interests include **empirical software engineering**, **artificial intelligence**, and **software testing**:
-- Intelligent Software Engineering
-- Software Development and Analysis
-- Industrial Internet
-- Source Code Analysis and Manipulation
-- Intelligent Programming Education
+I graduated from Beijing University of Chemical Technology with a bachelor's degree in Computer Science and Technology.
 
-### TEACHING COURSES
-- Data Structure
-- ACM/ICPC Programming Contest Methods and Practice
-- Python Programming
-- Python and Pygame
+### Tech stack:
+- Java(SpringBoot)
+- JavaScript
+- C/C++
+- Python(Django)
+- Docker
+- Linux
+- ...
 
 ### AWARDS
-- 2022年，北京化工大学信息学院青年教师教学基本功大赛特等奖，最受师生（网络）欢迎奖
-- 2022年，北京化工大学新工科建设优秀案例二等奖
-- 2022年，北京市教育教学成果二等奖
-- 2021年，中国自动化学会高等教育教学成果二等奖
-- 2021年，北京化工大学就业工作突出贡献团队
-- 2021年，北京化工大学学科竞赛优秀指导团队
-- 2021年，北京化工大学优秀学科竞赛指导老师
-- 2021年，北京化工大学教育教学成果特等奖
-- 2020年，北京化工大学第一届“创新创业优秀指导老师”
-- 2020年，中国石油和化工教育教学成果特等奖
-- 2016年，北京化工大学教职工乒乓球赛团体冠军
-- 2011年，北京化工大学教职工篮球联赛团体冠军，比赛中单场最高44分，进12个三分球
-  
+- 2019-2020北京化工大学人民奖学金二等奖
+- 2020-2021北京化工大学单项奖学金
+- 大学生创新创业比赛三等奖*2
+- 腾讯小程序开发大赛二等奖
+- 大学生数学建模比赛省二等奖
+- CET4/CET6
+
+### Work experience
+#### 2019-2022
+北京化工大学校友会新媒体部长
+#### 2023-2024
+北京化工大学信息学院科研助理
